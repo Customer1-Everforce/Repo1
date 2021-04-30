@@ -1,1 +1,1 @@
-This is fly2 for testing CLI based push.
+file - for testing curl
